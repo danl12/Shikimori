@@ -1,7 +1,8 @@
-package com.danl.shikimori
+package com.danl.shikimori.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.danl.shikimori.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
